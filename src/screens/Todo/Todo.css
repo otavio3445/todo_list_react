@@ -1,0 +1,13 @@
+.dropdown-menu{
+  min-width: 6rem!important;
+}
+
+.space-card{
+  margin-top: .5rem;
+  margin-bottom: 1rem;
+}
+
+.done-todos, .pending-todos{
+  background-color: #c3c3c3;
+  padding: 1rem 2rem;
+}
